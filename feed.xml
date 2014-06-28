@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<feed>
+  <title>Josh's Example Blog</title>
+  <updated>2014-06-27T23:55:52-06:00</updated>
+  <link rel="self" href="http://myblog.com/blog/feed.atom"/>
+  <id>http://myblog.com/</id>
+  <author>
+    <name>Josh Cheek</name>
+    <email>josh.cheek@gmail.com</email>
+    <uri>http://myblog.com</uri>
+  </author>
+  <entry>
+    <id>http://myblog.com/1</id>
+    <title>First blog!</title>
+    <published>2014-06-17T23:55:52-06:00</published>
+    <updated>2014-06-17T23:55:52-06:00</updated>
+    <summary>First blog!</summary>
+    <link href="http://myblog.com/1"/>
+    <content type="html">Brown is my favourite colour</content>
+  </entry>
+  <entry>
+    <id>http://myblog.com/2</id>
+    <title>Second blog!</title>
+    <published>2014-06-22T23:55:52-06:00</published>
+    <updated>2014-06-22T23:55:52-06:00</updated>
+    <summary>Second blog!</summary>
+    <link href="http://myblog.com/2"/>
+    <content type="html">Teachin the humans in DC about Rails</content>
+  </entry>
+  <entry>
+    <id>http://myblog.com/3</id>
+    <title>Going to be a long day O.o</title>
+    <published>2014-06-27T23:55:52-06:00</published>
+    <updated>2014-06-27T23:55:52-06:00</updated>
+    <summary>Going to be a long day O.o</summary>
+    <link href="http://myblog.com/3"/>
+    <content type="html">Teaching and flying, 16 hours altogether &gt;.&lt; ...and class tomorrow!</content>
+  </entry>
+</feed>
