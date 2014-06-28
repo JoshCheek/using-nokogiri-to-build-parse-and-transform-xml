@@ -1,7 +1,7 @@
 Nokogiri Example
 ----------------
 
-Run `ruby build.rb` to see the XML that it builds (saved into feed.xml)
+Run `ruby build.rb` to see the XML that it builds (saved into feed.xml).
 
 Run `ruby parse.rb` to see an example of parsing out the link's href,
 and the entry's title.
@@ -9,6 +9,10 @@ and the entry's title.
 Run `ruby transform.rb` to see an example of using an xsl transform
 to generate an html document of the titles.
 
+NOTE: I'm pretty sure the example XML I build isn't a valid Atom feed,
+but it's approximately realistic, so it makes a decent candidate
+for parsing and transforming. But, if you wind up making one,
+send me a pull request, so anyone else who finds this can benefit.
 
 MIT LICENSE
 -----------
